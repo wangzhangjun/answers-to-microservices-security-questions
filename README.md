@@ -1,5 +1,5 @@
+
 ## ThoughtWorks Security Community
-### Authors：
 ### About:
 Microservices Security: All The Questions You Should Be Asking is a great post talking about the security problems in microservice, if you are going to apply microservice and most of them are facing to Cloud Native Platform, the security is the thing you can't leave behind.
 
